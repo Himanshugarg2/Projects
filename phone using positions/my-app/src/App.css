@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.input-container {
+  margin: 20px 0;
+}
+
+.input-container input {
+  margin: 5px;
+  padding: 5px;
+}
+
+.phonebook {
+  margin: 20px 0;
+}
+
+.phonebook ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.phonebook li {
+  margin: 10px 0;
+}
+
+button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
